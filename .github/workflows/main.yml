@@ -1,0 +1,4 @@
+- name: Prepare macOS runner
+  # You may pin to the exact commit or the version.
+  # uses: paulz/prepare-macos@e5e4bb225562201a9cc0a78aa328f985321271e4
+  uses: paulz/prepare-macos@v1
